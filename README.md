@@ -36,13 +36,13 @@ These modules are part of the **Secured V2X Enabled Autoparking System Graduatio
 ---
 
 **Authors:**
-	Ahmed Desoky
-	Esraa Fawzy
-	Dina Hamed
+	Ahmed Desoky,
+	Esraa Fawzy,
+	Dina Hamed,
 	Ziad Emad
 	
 **Emails:**
-	ahmed0201150@gmail.com
-	ef44529@gmail.com
-	dina.hamed001@gmail.com
+	ahmed0201150@gmail.com,
+	ef44529@gmail.com,
+	dina.hamed001@gmail.com,
 	ziademadh7@gmail.com
